@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059409936513",
+    "project_id": "nh-united",
+    "storage_bucket": "nh-united.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059409936513:android:d02b2a3041d171f067cd80",
+        "android_client_info": {
+          "package_name": "com.scp.smartcarparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059409936513-opotif3eiahtdt4rldb77sijaqtngtf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scp.smartcarparking",
+            "certificate_hash": "618d73129dedbaec0c6c2856d600e85fdf9b5ff4"
+          }
+        },
+        {
+          "client_id": "1059409936513-nj41gabq4fguba9icvh05ob9k5evm03g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-lbTEw3_bWzud3uujd5l6qyMCI_DK3ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059409936513-nj41gabq4fguba9icvh05ob9k5evm03g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
